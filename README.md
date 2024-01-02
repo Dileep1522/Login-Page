@@ -1,1 +1,1 @@
-This is the readme file Login-Page repositary
+This is the readme file for Login-Page repository
